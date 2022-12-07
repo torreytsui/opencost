@@ -1,0 +1,6 @@
+apiVersion: v2
+description: Chip maintained opencost helm chart
+name: opencost
+version: 1.0.0
+sources:
+  - https://github.com/opencost/opencost
